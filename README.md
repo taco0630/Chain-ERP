@@ -26,7 +26,7 @@ This project aims to provide a scalable, secure, and efficient ERP solution.
 
 🔹 How To Use:
 1. Make sure your environment can run python 3.10
-2. Download all ui files, python codes, and logo.ico
+2. Download all ui files, python codes, logo.ico, and font type, and save them into 1 folder
 3. Start with loginui.py and run this file. Login details username: Demo, password: 111111.
 4. Enjoy!
 5. You can use pyinstaller to pack all files into a .exe
