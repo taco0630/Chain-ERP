@@ -31,6 +31,6 @@ This project aims to provide a scalable, secure, and efficient ERP solution.
 4. Enjoy!
 5. You can use pyinstaller to pack all files into a .exe
 
-[Chain使用手册_简中V1.0_10APR2023.pdf](https://github.com/user-attachments/files/19406899/Chain._.V1.0_10APR2023.pdf)
-[Chain使用手冊_繁中V1.0_10APR2023.pdf](https://github.com/user-attachments/files/19406898/Chain._.V1.0_10APR2023.pdf)
 [Chain User Manual_Eng V1.0_10APR2023.pdf](https://github.com/user-attachments/files/19406897/Chain.User.Manual_Eng.V1.0_10APR2023.pdf)
+[Chain使用手冊_繁中V1.0_10APR2023.pdf](https://github.com/user-attachments/files/19406898/Chain._.V1.0_10APR2023.pdf)
+[Chain使用手册_简中V1.0_10APR2023.pdf](https://github.com/user-attachments/files/19406899/Chain._.V1.0_10APR2023.pdf)
